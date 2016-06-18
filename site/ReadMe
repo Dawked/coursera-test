@@ -19,6 +19,17 @@ Instruction to edit on local machine.
 
 1. open git bash
 2. type command git clone < http link>
-3. git checkout gh-pages.
+3. git checkout gh-pages
+4. create a new folder
+5. create new index.html on new folder
 
+
+Instruction to push new content.
+
+1. git add .
+2. git commit -m "your message"
+3. git push
+
+
+end instruction.
 
