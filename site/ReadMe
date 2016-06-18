@@ -1,0 +1,24 @@
+***************************************************
+* 1.This are the instruction to create a website   **
+* 2.Git account                                    **
+* 3.Chrome browser                                 **
+* 4.Text editor                                    **
+* 5.Nodejs (msi file)                              **
+* 6.BrowserSync (npm install -g browser-sync)      **
+***************************************************
+
+
+
+Instruction for a new website
+
+1.create new repo
+2.go to settings and launch automatic page generator then publish
+
+
+Instruction to edit on local machine.
+
+1. open git bash
+2. type command git clone < http link>
+3. git checkout gh-pages.
+
+
