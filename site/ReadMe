@@ -30,6 +30,13 @@ Instruction to push new content.
 2. git commit -m "your message"
 3. git push
 
+Using Browser Sync
+
+1.type browser-sync start --server --directory --files "*"
+2. click index.html file on chrome 
+3. edit index.htmp (after saving webpage changes right away.)
+
+
 
 end instruction.
 
